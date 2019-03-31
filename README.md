@@ -1,5 +1,9 @@
 # Build a Job Board with Python & Flask
 
+python3 -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txtpytest -k module1
+
 ## Verify Local Environment
 
 ### Create Virtual Environment
